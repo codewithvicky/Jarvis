@@ -1,4 +1,4 @@
-# Jravis
+# Jarvis
 
 Iron Man Jarvis AI Desktop Voice Assistant
 
